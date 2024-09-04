@@ -1,0 +1,17 @@
+.comp-cabecalho{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    height: 80px;
+    background-color: #313131;
+    
+    img{
+        height: 70px;
+        padding-left: 50px;
+    }
+
+    h1{
+        color: #fff;
+        font: 400 20px 'Roboto';
+    }
+}
